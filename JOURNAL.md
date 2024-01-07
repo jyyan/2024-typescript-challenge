@@ -4,6 +4,7 @@
 * 202401071635 START
 * 202401071707 END 
 * 202401071849 START
+* 202401071935 check 
 
 ## Feature list
 1. 基本變數 
@@ -19,18 +20,18 @@
    1. [x] 車輛介面：vehicleInterface
    1. [x] 待辦事項列表：todoInterface 
 1. 陣列與元組 
-   1. [ ] 數字排序：numberSort
-   1. [ ] 元組記錄學生資訊：studentTuple
-   1. [ ] 處理多維陣列：multiArray
+   1. [x] 數字排序：numberSort
+   1. [x] 元組記錄學生資訊：studentTuple
+   1. [x] 處理多維陣列：multiArray
 1. 枚舉與聯合類型
-   1. [ ] 交通訊號燈模擬：trafficLightEnum
-   1. [ ] 處理多種輸入類型：inputHandler
-   1. [ ] 書籍類別分類：bookCategoryEnum
+   1. [x] 交通訊號燈模擬：trafficLightEnum
+   1. [x] 處理多種輸入類型：inputHandler
+   1. [x] 書籍類別分類：bookCategoryEnum
 1. 函式測試
-   1. [ ] 字串處理函式測試：stringProcessing
-   1. [ ] 陣列過濾函式：arrayFiltering
-   1. [ ] 年齡分類函式：ageClassification
-   1. [ ] URL 解析函式：urlParsing
+   1. [x] 字串處理函式測試：stringProcessing
+   1. [x] 陣列過濾函式：arrayFiltering
+   1. [x] 年齡分類函式：ageClassification
+   1. [x] URL 解析函式：urlParsing
 1. module 匯入匯出
    1. [ ] 個人資訊管理模組：personalInfoModule
    1. [ ] 公共工具函式模組：utilityFunctionsModule
