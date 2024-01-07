@@ -6,5 +6,5 @@
  */
 export function isPositive(number: number): boolean {
     // 故意寫錯的程式碼
-    return number < 0;
+    return number > 0;
 }

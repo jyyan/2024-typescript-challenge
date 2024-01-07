@@ -7,4 +7,5 @@
  */
 export function findMaxNumber(numbers: number[]): number {
     // 在此實現函式
+  return Math.max(...numbers)
 }

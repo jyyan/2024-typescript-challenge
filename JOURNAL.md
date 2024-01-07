@@ -2,20 +2,21 @@
 
 ## Changelog
 * 202401071635 START
+* 202401071707 END 
 
 ## Feature list
 1. 基本變數 
-   1. [ ] 溫度轉換器：temperatureConverter 
-   1. [ ] 簡單計算器：calculator 
-   1. [ ] 布林值判斷：booleanChecker
+   1. [x] 溫度轉換器：temperatureConverter 
+   1. [x] 簡單計算器：calculator 
+   1. [x] 布林值判斷：booleanChecker
 1. 函式與類型標註
-   1. [ ] 字串反轉：stringReverse 
-   1. [ ] 找出最大數：maxNumber 
-   1. [ ] 計算陣列總和：arraySum
+   1. [x] 字串反轉：stringReverse 
+   1. [x] 找出最大數：maxNumber 
+   1. [x] 計算陣列總和：arraySum
 1. 介面定義
-   1. [ ] 用戶資料處理：userInterface
-   1. [ ] 車輛介面：vehicleInterface
-   1. [ ] 待辦事項列表：todoInterface 
+   1. [x] 用戶資料處理：userInterface
+   1. [x] 車輛介面：vehicleInterface
+   1. [x] 待辦事項列表：todoInterface 
 1. 陣列與元組 
    1. [ ] 數字排序：numberSort
    1. [ ] 元組記錄學生資訊：studentTuple
