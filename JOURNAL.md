@@ -5,6 +5,7 @@
 * 202401071707 END 
 * 202401071849 START
 * 202401071935 check 
+* 202401072017 END
 
 ## Feature list
 1. 基本變數 
@@ -33,16 +34,16 @@
    1. [x] 年齡分類函式：ageClassification
    1. [x] URL 解析函式：urlParsing
 1. module 匯入匯出
-   1. [ ] 個人資訊管理模組：personalInfoModule
-   1. [ ] 公共工具函式模組：utilityFunctionsModule
-   1. [ ] 數據處理模組：dataProcessingModule
-   1. [ ] 用戶資訊擴展：userInfoExtension
+   1. [x] 個人資訊管理模組：personalInfoModule
+   1. [x] 公共工具函式模組：utilityFunctionsModule
+   1. [x] 數據處理模組：dataProcessingModule
+   1. [x] 用戶資訊擴展：userInfoExtension
 1. 泛型
-   1. [ ] 資料儲存：DataStore
-   1. [ ] 設置物件存取器：objectAccessor
-   1. [ ] 過濾函式：filterByProperty
+   1. [x] 資料儲存：DataStore
+   1. [x] 設置物件存取器：objectAccessor
+   1. [x] 過濾函式：filterByProperty
 1. 延伸
-   1. [ ] 使用 Map 和 Set：uniqueElements
-   1. [ ] 使用 Promise 和 async/await：fetchData
-   1. [ ] 非同步設計計算陣列總和：asyncSum
-   1. [ ] 購物車邏輯：ShoppingCart
+   1. [x] 使用 Map 和 Set：uniqueElements
+   1. [x] 使用 Promise 和 async/await：fetchData
+   1. [x] 非同步設計計算陣列總和：asyncSum
+   1. [x] 購物車邏輯：ShoppingCart

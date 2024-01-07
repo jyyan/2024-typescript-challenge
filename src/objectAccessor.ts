@@ -14,4 +14,15 @@
  */
 export function createObjectAccessor<T>(obj: T) {
     // 請在此處寫下你的程式碼
+  let data :T = obj
+
+  const get = (key: string):any => {
+    return data[key]
+  }
+
+  const set = (key:string, val:any) => {
+    data[key] = val
+  }
+
+  return { get, set };
 }

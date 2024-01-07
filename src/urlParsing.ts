@@ -21,7 +21,7 @@ interface UrlParts {
 export function parseUrl(url: string): UrlParts {
    // 請在此處寫下你的程式碼
   let urlParser = /^(https?\:)\/\/(([^:\/?#]*)(?:\:([0-9]+))?)([\/]{0,1}[^?#]*)(\?[^#]*|)(#.*|)$/.exec(url)
-  console.log(urlParser)
+  // console.log(urlParser)
   let res: UrlParts = {
     protocol: urlParser == null ? '' : urlParser[1],
     hostname: urlParser == null ? '' : urlParser[3],

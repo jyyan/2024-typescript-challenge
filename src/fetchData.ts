@@ -6,4 +6,10 @@
  */
 
 // 請在下方寫下你的程式碼
+export async function fetchData(url :string) {
+  return fetch(url)
+    .then(function (response) {
+      return response.json()
+    })
+}
 

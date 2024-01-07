@@ -6,4 +6,11 @@
  */
 export function uniqueElements(array: number[]): number[] {
     // 請在此處寫下你的程式碼
+  let res : number[] = []
+  array.map((item:number) => {
+    if (res.indexOf(item) < 0) {
+      res.push(item)
+    }
+  })
+  return res
 }
