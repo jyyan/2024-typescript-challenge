@@ -6,6 +6,7 @@
 * 202401071849 START
 * 202401071935 check 
 * 202401072017 END
+* 202401072021 try trig GITHUB ACTION
 
 ## Feature list
 1. 基本變數 
