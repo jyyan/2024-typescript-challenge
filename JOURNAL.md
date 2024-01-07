@@ -1,7 +1,7 @@
 # changelog & feature list
 
 ## Changelog
-
+* 202401071635 START
 
 ## Feature list
 1. 基本變數 
